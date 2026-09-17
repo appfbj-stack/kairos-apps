@@ -54,7 +54,7 @@ export const siteConfig = {
 
   // SEO
   seo: {
-    siteUrl: "https://kairosapps.com.br", // <-- troque aqui quando publicar
+    siteUrl: "https://apps.fbautomacao.space", // publicado em 2026-09-17
     keywords: [
       "aplicativos para empresas",
       "sistemas para pequenos negócios",
