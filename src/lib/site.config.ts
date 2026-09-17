@@ -19,14 +19,14 @@ export const siteConfig = {
   // Contato principal
   contact: {
     email: "contato@kairosapps.com.br",
-    phone: "+55 00 00000-0000",
+    phone: "+55 15 99272-4313",
   },
 
   // WhatsApp - PONTO ÚNICO DE CONFIGURAÇÃO
   // number: DDI + DDD + número, somente dígitos
   // Para mensagens contextuais use a função whatsappLink() em lib/whatsapp.ts
   whatsapp: {
-    number: "5500000000000", // <-- troque aqui
+    number: "5515992724313", // <-- troque aqui
     defaultMessage:
       "Olá! Vim pelo site da Kairós Apps e gostaria de conhecer as soluções.",
   },
