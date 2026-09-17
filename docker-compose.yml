@@ -4,7 +4,7 @@ services:
     container_name: kairos-apps-landing
     restart: unless-stopped
     ports:
-      - "3012:3000"
+      - "3016:3000"
     environment:
       - NODE_ENV=production
       - PORT=3000
