@@ -33,7 +33,7 @@ export const siteConfig = {
 
   // Redes sociais
   social: {
-    instagram: "https://instagram.com/kairosapps", // <-- troque aqui
+    instagram: "https://www.instagram.com/kairos_app_web", // <-- troque aqui
     facebook: "https://facebook.com/kairosapps", // <-- troque aqui
     youtube: "", // opcional
     linkedin: "", // opcional
